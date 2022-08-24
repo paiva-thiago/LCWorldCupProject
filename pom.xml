@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tech.ada.simulacao</groupId>
-    <artifactId>Simulacao</artifactId>
+    <artifactId>LCWorldCupProject</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
